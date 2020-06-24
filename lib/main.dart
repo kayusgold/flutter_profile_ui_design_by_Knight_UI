@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:profile_ui/screen/profile.dart';
-
 import 'screen/home_screen.dart';
 
 void main() {

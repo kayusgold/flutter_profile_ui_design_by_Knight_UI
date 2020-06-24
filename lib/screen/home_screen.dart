@@ -1,6 +1,4 @@
-import 'package:diagonal/diagonal.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:profile_ui/widgets/the_icons.dart';
 //import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
 

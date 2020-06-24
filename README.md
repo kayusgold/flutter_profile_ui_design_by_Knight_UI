@@ -1,8 +1,15 @@
-# profile_ui
+# App Name: profile_ui
 
 This is a UI Design based on the UI [Profile UI Concept](https://www.uplabs.com/posts/profile-ui-concept-bed9a4e2-098e-4f95-a9e4-724a36dcf215) created by [Knight UI](https://www.uplabs.com/poseybrent) on [Uplabs.com](https://www.uplabs.com/)
 
 ![Profile UI Concept](https://assets.materialup.com/uploads/6c484587-12c6-4b6d-b39e-a870f2682a87/preview.png)
+
+## Screenshots
+### Home
+![Home](screenshots/home.jpg)
+
+### Profile
+![Profile](screenshots/profile.jpg)
 
 ## Getting Started
 
